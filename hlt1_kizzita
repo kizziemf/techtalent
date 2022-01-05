@@ -1,0 +1,27 @@
+<!DOCTYPE html> 
+
+<html>
+    <head>
+        <title>My Profile</title>
+        <link rel="stylesheet" href="mystyle.css">
+    </head>
+        <body>
+            <h1>My Profile</h1>
+            <img src="animationpic.jpg" width="20%" height="20%" class="center" alt="">
+            <hr>
+            <a href="">Home</a>
+            <a href="">My Profile</a>
+            <a href="">My Activity</a>
+            <hr>
+            <li>
+                <ol>Me</ol>
+            </li>
+            <li>
+                <ol>My Friends</ol>
+            </li>
+            <li>
+                <ol>My School</ol>
+            </li>
+        </body>
+        <footer>Created by Kizzita Mensah-Fawzy <br> Copyright@Tech Talent Academy 2021</footer>
+</html>
